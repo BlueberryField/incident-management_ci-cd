@@ -21,4 +21,3 @@ File or Folder | Purpose
 
 Learn more at <https://cap.cloud.sap>.
 ## This is a new change
-## This is a new change for CI/CD Demo
